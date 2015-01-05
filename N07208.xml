@@ -107,15 +107,16 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009188_0000_1030BD4D02C44C38"/>
-            <pb facs="tcp:009188_0001_1030BD52E95FD3D0"/>
+            <pb facs="unknown:009188_0000_1030BD4D02C44C38"/>
+            <pb facs="unknown:009188_0001_1030BD52E95FD3D0"/>
             <p>THE MILITARY GLORY OF GREAT-BRITAIN, AN ENTERTAINMENT, GIVEN BY THE LATE CANDIDATES FOR BACHELOR'S DEGREE, AT THE CLOSE OF THE ANNIVERSARY COMMENCEMENT, HELD IN NASSAU-HALL NEW-JERSEY SEPTEMBER 29th, 1762.</p>
             <p>PHILADELPHIA: Printed by WILLIAM BRADFORD, M,DCC,LXII.</p>
          </div>
       </front>
       <body>
          <div type="music">
-            <pb facs="tcp:009188_0002_1030BD5487175690" rendition="simple:additions"/>
+            <pb facs="unknown:009188_0002_1030BD5487175690"
+                rendition="simple:additions"/>
             <head>Britain's Glory, sung at the Anniversary</head>
             <p>Sym Allegro</p>
             <l>Triumphant Fame aſcend the Skies, ascend y<hi rend="sup">e</hi> Skies,<gap reason="music">
@@ -136,7 +137,7 @@
             </l>
          </div>
          <div type="song">
-            <pb n="3" facs="tcp:009188_0003_1030BD561FE753F0"/>
+            <pb n="3" facs="unknown:009188_0003_1030BD561FE753F0"/>
             <head>THE MILITARY GLORY OF GREAT-BRITAIN, &amp;c.</head>
             <lg>
                <head>INTRODUCTORY CHORUS.</head>
@@ -161,7 +162,7 @@
             <l>They pour amain a foaming Flood;</l>
             <l>The Mountains hear the Torrents roar,</l>
             <l>
-               <pb n="4" facs="tcp:009188_0004_1030BD57B9182278"/>And Echoes ſhake the neighbouring Wood:</l>
+               <pb n="4" facs="unknown:009188_0004_1030BD57B9182278"/>And Echoes ſhake the neighbouring Wood:</l>
             <l>So mild and peaceful, fair Britannia mov'd</l>
             <l>Her harmleſs Sceptre; 'till, her Wrath enflam'd,</l>
             <l>GALLIA all her Vengeance prov'd;</l>
@@ -196,7 +197,8 @@
                <floatingText xml:lang="unk">
                   <body>
                      <div type="music">
-                        <pb facs="tcp:009188_0005_1030BD597812ACE0" rendition="simple:additions"/>
+                        <pb facs="unknown:009188_0005_1030BD597812ACE0"
+                            rendition="simple:additions"/>
                         <head>Commencement, in Naſsau Hall in New-Jersey, Sept.<hi rend="sup">r</hi> 29.<hi rend="sup">th</hi> 1762</head>
                         <p>Chorus 2, Allegro</p>
                         <l>Gallia's Sons shall vaunt no more, shall vaunt no more,<gap reason="music">
@@ -220,7 +222,7 @@
                </floatingText>
             </p>
             <l>
-               <pb n="5" facs="tcp:009188_0006_1030BD5F635CC3D0"/>Tho' glutted to the full with Blood indignant,</l>
+               <pb n="5" facs="unknown:009188_0006_1030BD5F635CC3D0"/>Tho' glutted to the full with Blood indignant,</l>
             <l>If in the Breaſt of Warlike JOHNSTON lay</l>
             <l>Unerring Thunders of a juſt Revenge?</l>
             <l>To Him no Mean Reward of Honour's due;</l>
@@ -243,7 +245,7 @@
             <l>His Death, itſelf, the Expiation ſlew;</l>
             <l>WOLFE, dying, conquer'd; conquering, was immmortal.</l>
             <l>
-               <pb n="6" facs="tcp:009188_0007_1030BD6262FF7CE8"/>Nor ceaſes Victory; AMHERST ſtill appears,</l>
+               <pb n="6" facs="unknown:009188_0007_1030BD6262FF7CE8"/>Nor ceaſes Victory; AMHERST ſtill appears,</l>
             <l>Illuſtrious from a Train of glorious Deeds:</l>
             <l>Him prudent Foreſight, and ſagacious Cares</l>
             <l>Led tho' the Perils of a ſavage War:</l>
@@ -266,7 +268,7 @@
             <l>Poured the whole Force of Gaul on <hi>Hanoveria</hi>;</l>
             <l>And had o'erwhelm'd it: But the mighty Soul</l>
             <l>
-               <pb n="7" facs="tcp:009188_0008_1030BD6A07561128"/>Of FERDINAND, as Atlas firm, withſtood;</l>
+               <pb n="7" facs="unknown:009188_0008_1030BD6A07561128"/>Of FERDINAND, as Atlas firm, withſtood;</l>
             <l>And broke the Vehemence of the preſſing War.</l>
             <l>So, the ſpent Ocean weaken'd with the Rage</l>
             <l>Which long had urged the ſtable Continent,</l>
@@ -292,7 +294,7 @@
             </l>
             <l>Shall damp their ardour in their bold Career.</l>
             <lg>
-               <pb n="8" facs="tcp:009188_0009_1030BD6BABE9A360"/>
+               <pb n="8" facs="unknown:009188_0009_1030BD6BABE9A360"/>
                <head>CHORUS III</head>
                <l>
                   <hi>Propitious Powers who guard our State,</hi>
@@ -334,7 +336,8 @@
                   <floatingText xml:lang="unk">
                      <body>
                         <div type="music">
-                           <pb facs="tcp:009188_0010_1030BD6ED9782828" rendition="simple:additions"/>
+                           <pb facs="unknown:009188_0010_1030BD6ED9782828"
+                               rendition="simple:additions"/>
                            <p>Chorus 3.<hi rend="sup">d</hi> Largo</p>
                            <l>Propitious Powers who guard our State,<gap reason="music">
                                  <desc>〈♫〉</desc>
@@ -369,7 +372,7 @@
                   </floatingText>
                </p>
                <l>
-                  <pb n="9" facs="tcp:009188_0011_1030BD70720B91B8"/>A Muſe like thine, enobled by the Love</l>
+                  <pb n="9" facs="unknown:009188_0011_1030BD70720B91B8"/>A Muſe like thine, enobled by the Love</l>
                <l>Of Britiſh Freedom, and of Britiſh Fame.</l>
                <l>Wherefore without Reluctance bear thy Part</l>
                <l>In ſuch illuſtrious Praiſe.</l>
@@ -397,7 +400,7 @@
                <l>In Clouds invelop'd, inacceſſible.</l>
                <l>Full forty Days beneath the ſtormy Brow</l>
                <l>
-                  <pb n="10" facs="tcp:009188_0012_1030BD76692EB980"/>Of MORO-CASTLE mov'd the Britiſh Troops.</l>
+                  <pb n="10" facs="unknown:009188_0012_1030BD76692EB980"/>Of MORO-CASTLE mov'd the Britiſh Troops.</l>
                <l>With various Art, and regular Approach</l>
                <l>Working Deſtruction and ſure Victory.</l>
                <l>From Batteries on every Side erect,</l>
@@ -420,7 +423,7 @@
                <l>In ſmoky Whirls involv'd; th' uprooted Wall,</l>
                <l>A larger Chaſm diſplays; the Foſſe, fill'd up</l>
                <l>
-                  <pb n="11" facs="tcp:009188_0013_1030BD796E407C10"/>With ſhiver'd Rubbiſh, gives a fairer Entrance,</l>
+                  <pb n="11" facs="unknown:009188_0013_1030BD796E407C10"/>With ſhiver'd Rubbiſh, gives a fairer Entrance,</l>
                <l>And ſeems t'invite the meditated Storm.</l>
                <l>Then had you ſeen, CLEANDER, all the Fire</l>
                <l>Of Britiſh War, enflam'd by fierce Revenge.</l>
@@ -446,7 +449,7 @@
                <l>The vig'rous Effort; animated now</l>
                <l>With recent Conqueſt, our Commanders brave</l>
                <l>
-                  <pb n="12" facs="tcp:009188_0014_1030BD7C6F272EA8"/>Preſs on to total Vict'ry. (Glorious Toils!</l>
+                  <pb n="12" facs="unknown:009188_0014_1030BD7C6F272EA8"/>Preſs on to total Vict'ry. (Glorious Toils!</l>
                <l>Well worthy of immortal Fame!) ſtraightway,</l>
                <l>With Force collected, and a martial Rage</l>
                <l>E'en paſſing <hi>Britiſh,</hi> on th' unyielding Town</l>
@@ -487,7 +490,8 @@
                <floatingText xml:lang="unk">
                   <body>
                      <div type="music">
-                        <pb facs="tcp:009188_0015_1030BD7F705C37F0" rendition="simple:additions"/>
+                        <pb facs="unknown:009188_0015_1030BD7F705C37F0"
+                            rendition="simple:additions"/>
                         <p>Chorus 4.<hi rend="sup">th</hi> Piu Allegro</p>
                         <l>Glory, Triumph, Victory, Fame,<gap reason="music">
                               <desc>〈♫〉</desc>
@@ -526,7 +530,7 @@
                </floatingText>
             </p>
             <stage>
-               <pb n="13" facs="tcp:009188_0016_1030BD8287FCD878"/>
+               <pb n="13" facs="unknown:009188_0016_1030BD8287FCD878"/>
                <hi>Enter fourth Speaker</hi>; ſuddenly tranſported.</stage>
             <l>What mean theſe Strains? theſe glad, triumphant Sounds?</l>
             <l>My Heart, with what unuſual Joy it bounds!</l>
@@ -549,7 +553,7 @@
             <l>Your Temples; fondly hovering round</l>
             <l>Your glittering Arms. 'Tis Courage fights,</l>
             <l>
-               <pb n="14" facs="tcp:009188_0017_1030BD8429BAFBC0"/>'Tis Courage conquers. Pour your Wrath abroad;</l>
+               <pb n="14" facs="unknown:009188_0017_1030BD8429BAFBC0"/>'Tis Courage conquers. Pour your Wrath abroad;</l>
             <l>With martial Sound</l>
             <l>The Foe confound;</l>
             <l>Aſſert your Britiſh Right;</l>
@@ -577,7 +581,8 @@
                <floatingText xml:lang="unk">
                   <body>
                      <div type="music">
-                        <pb facs="tcp:009188_0018_1030BD8740BDE160" rendition="simple:additions"/>
+                        <pb facs="unknown:009188_0018_1030BD8740BDE160"
+                            rendition="simple:additions"/>
                         <p>Part of Chorus 4.<hi rend="sup">th</hi> Piu Allegro.</p>
                         <l>Glory, Triumph, Victory, Fame, Glory, Triumph, Victory, Fame<gap reason="music">
                               <desc>〈♫〉</desc>
@@ -603,7 +608,7 @@
                </floatingText>
             </p>
             <l>
-               <pb n="15" facs="tcp:009188_0019_1030BD88E12A1108"/>Long may a <hi>GEORGE</hi> the regal Sceptre ſway;</l>
+               <pb n="15" facs="unknown:009188_0019_1030BD88E12A1108"/>Long may a <hi>GEORGE</hi> the regal Sceptre ſway;</l>
             <l>And ſcatter Bleſſings with a lib'ral Hand</l>
             <l>Around the peaceful Globe; but dire Diſmay</l>
             <l>On all who dare his injur'd Arms withſtand.</l>
